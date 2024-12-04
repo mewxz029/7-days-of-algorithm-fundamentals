@@ -1,4 +1,5 @@
-# learn-algorithms
+# 7-Days of Algorithm Fundamentals
+7-Days of Algorithm Fundamentals from [LearnAlgorithm](https://learnalgorithm.com/)
 
 To install dependencies:
 
